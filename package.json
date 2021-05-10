@@ -1,0 +1,18 @@
+{
+  "name": "@logicamente.info/clone-test",
+  "version": "1.0.0",
+  "description": "Compares @logicamente.info/clone speed with other libs",
+  "main": "clone-test.js",
+  "repository": "https://github.com/logicamenteinfo/clone-test",
+  "author": "Natanael Simoes",
+  "license": "MIT",
+  "dependencies": {
+    "@logicamente.info/clone": "^1.0.0",
+    "clone": "^2.1.2",
+    "deepcopy": "^2.1.0",
+    "filesize": "^6.3.0",
+    "object-copy": "^1.0.0",
+    "object-sizeof": "^1.6.1",
+    "systeminformation": "^5.6.12"
+  }
+}
